@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joias Encantadas - Sua Marca de Brincos e Anéis</title>
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+
+    <header class="header">
+        <h1>✨ Joias Encantadas ✨</h1>
+        <p>Elegância e qualidade em cada peça. Foco em Brincos e Anéis únicos.</p>
+    </header>
+
+    <section class="colecao-destaque">
+        <h2>Coleção Atual: Primavera Radiante</h2>
+        <p>Descubra a leveza e o brilho inspirados na natureza. Novas peças toda semana!</p>
+    </section>
+    
+    <section class="categorias">
+        <h3>Nossas Categorias Principais</h3>
+        <div class="focos">
+            <span class="foco-item">💍 Anéis</span>
+            <span class="foco-item">👂 Brincos</span>
+            <span class="foco-item">🔗 Pulseiras</span>
+            <span class="foco-item">💎 Cordões</span>
+        </div>
+    </section>
+
+    <section class="galeria">
+        <h3>Peças em Destaque da Coleção</h3>
+        <div class="produtos-grid">
+            
+            <div class="produto">
+                <img src="https://via.placeholder.com/300x300.png?text=FOTO+DO+BRINCO" alt="Brinco Dourado Pequeno">
+                <h4>Brinco Gota Radiante</h4>
+                <p class="categoria-item">Brincos (Foco)</p>
+                <p class="preco">R$ 89,90</p>
+                <a href="#" class="btn-comprar">Ver Detalhes</a>
+            </div>
+            
+            <div class="produto">
+                <img src="https://via.placeholder.com/300x300.png?text=FOTO+DO+ANEL" alt="Anel de Prata Minimalista">
+                <h4>Anel Solitário Delicado</h4>
+                <p class="categoria-item">Anéis (Foco)</p>
+                <p class="preco">R$ 119,50</p>
+                <a href="#" class="btn-comprar">Ver Detalhes</a>
+            </div>
+
+            <div class="produto">
+                <img src="https://via.placeholder.com/300x300.png?text=FOTO+DA+PULSEIRA" alt="Pulseira de miçangas coloridas">
+                <h4>Pulseira Verão Astral</h4>
+                <p class="categoria-item">Pulseiras</p>
+                <p class="preco">R$ 55,00</p>
+                <a href="#" class="btn-comprar">Ver Detalhes</a>
+            </div>
+
+            </div>
+    </section>
+
+    <footer class="footer">
+        <p>&copy; 2025 Joias Encantadas. Todos os direitos reservados.</p>
+        <p>Entre em Contato: <a href="mailto:seuemail@exemplo.com">seuemail@exemplo.com</a> | Siga-nos no Instagram!</p>
+    </footer>
+
+</body>
+</html>
